@@ -1,4 +1,4 @@
-![Uploading 41Z_2106.w009.n001.3A.p15.3.jpg…]()
+![41Z_2106 w009 n001 3A p15 3](https://github.com/triver97/triver97/assets/97376526/321f516b-dd2e-4cae-8a13-ae6142df52b4)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roli Trivedi
 ====================================================================================================================================
