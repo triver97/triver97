@@ -1,4 +1,4 @@
-![image](https://github.com/triver97/triver97/assets/97376526/7e3a4b2f-2e00-48e4-9f8e-24662053ded2)
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roli Trivedi
 ====================================================================================================================================
