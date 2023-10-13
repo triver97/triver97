@@ -9,7 +9,7 @@ Passion for solving problems in the world by means of data.
 * ✉️  You can contact me at [triver0397@gmail.com](mailto:triver0397@gmail.com)
 * 🧠  I write for TowardsAI
 * 🤝  I'm open to collaborating on Projects
-* Skills: 
+* Skillset: 
 • DATA SCIENCE: Machine Learning • Statistical Analysis
 • PROGRAMMING : Python(Pandas, Numpy, Scikit-Learn) • SQL
 • DATA VISUALIZATION: PowerBI, Syniti Data Intelligence
